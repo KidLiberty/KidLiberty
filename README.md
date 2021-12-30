@@ -1,1 +1,3 @@
-Hi there, I am a web developer with a focus on Javascript/React.
+Hi there, 
+
+I'm a web developer with a focus on React.js.
